@@ -2,7 +2,7 @@
 I'm learning **Frontend** web development.
 I'm curious about **Backend** development.
 I try to learn something *new* everybody.
-I share my **progress** in twitter and i completed *#100daysOfCode* coding challenge.
+I share my **progress** on twitter and i completed *#100daysOfCode* coding challenge.
 I started *#365DaysofCode* challenge now.
 You'll find me on twitter as [@shakiltha](https://www.twitter.com/shakiltha)
 
