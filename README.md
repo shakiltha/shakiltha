@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi. I am a frontend web developer expert in React. I'm building different web projects for learning purpose.<br>I'm discovering new library and packages in javascript and react ecosystem  <br>everyday. It is easy to get lost in web technologies and not becoming specialized in any technology.<br>So my goal is to become expert in MERN stack.
+Hi. I am a frontend web developer expert in React. I'm building different web projects for learning purpose.<br>I'm discovering new library and packages in javascript and react ecosystem  <br>everyday. It is easy to get lost in web technologies and not becoming specialized in any stack or field.<br>So my goal is to become expert in MERN stack.
 
 
 ## 🌐 Socials:
